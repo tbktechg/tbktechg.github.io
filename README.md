@@ -1,2 +1,2 @@
 meuresumo.xp3.biz,modulo-atual-com-br.umbler.net#
-xaxaxasxxa:desativa_tudo@
+e0c1283c02bf52a0:get_sms@
