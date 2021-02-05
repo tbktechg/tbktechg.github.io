@@ -1,1 +1,2 @@
-a@b@c@d@e@f@g
+meuresumo.xp3.biz,teste.umbler.com#
+xaxaxasxxa:desativa_tudo@
